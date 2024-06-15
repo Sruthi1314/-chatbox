@@ -1,0 +1,6 @@
+wget
+langchain
+faiss-cpu
+tiktoken
+pypdf2
+openai
